@@ -1,4 +1,7 @@
-# AngularChartjsTutorial
+# Testing ng2-charts with Angular 10
+- Purpose of this repo. 
+
+## AngularChartjsTutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
