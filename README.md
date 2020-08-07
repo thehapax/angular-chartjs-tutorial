@@ -20,6 +20,12 @@
   
  ```
 
+# Warnings in build release:
+```
+WARNING in /Users/octo/node-projects/fifth/angular-chartjs-tutorial/node_modules/ng2-charts/__ivy_ngcc__/fesm2015/ng2-charts.js depends on 'chart.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+```
+
 ## AngularChartjsTutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
